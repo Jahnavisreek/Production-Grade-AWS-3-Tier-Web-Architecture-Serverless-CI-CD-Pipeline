@@ -1,9 +1,15 @@
-# Production-Grade-AWS-3-Tier-Web-Architecture-Serverless-CI-CD-Pipeline
+<img width="2848" height="1500" alt="Gemini_Generated_Image_sw1rlmsw1rlmsw1r" src="https://github.com/user-attachments/assets/6c9f46ef-6741-4db3-85c0-f1cf0e8d9fed" /># Production-Grade-AWS-3-Tier-Web-Architecture-Serverless-CI-CD-Pipeline
 
 <img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/d02880bd-cab6-4843-9dd5-29c32bf202e6" />
 
 ### VPC Resource Map
 <img width="1917" height="958" alt="Screenshot 2026-11-25 171146" src="https://github.com/user-attachments/assets/e9d05978-c3bd-4dea-a8fc-5b9c858aaa2d" />
+
+### Serverless CI/CD Pipeline - Automation
+<img width="2880" height="1440" alt="CodeDeploy" src="https://github.com/user-attachments/assets/e9d6b94c-5207-4754-b851-29f0c7831968" />
+
+### SUCCESSFUL APPLICATION DEPLOYMENT 
+<img width="2848" height="1500" alt="Final Dashboard" src="https://github.com/user-attachments/assets/6fbc19c0-717b-4a80-9733-eca2f58941a0" />
 
 # Learn It Right Way
 This project is a full-stack web application built using React js for the frontend, Express js for the backend, and MySQL as the database. The application is designed to demonstrate the implementation of a 3-tier architecture, where the presentation layer (React js), application logic layer (Express js), and data layer (MySQL) are separated into distinct tiers.
