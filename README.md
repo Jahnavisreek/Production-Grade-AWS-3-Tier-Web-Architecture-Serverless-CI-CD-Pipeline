@@ -2,6 +2,9 @@
 
 <img width="1536" height="1024" alt="3-Tier Architecture" src="https://github.com/user-attachments/assets/fb31cbc3-3ccd-404f-ba5f-143fcf936968" />
 
+### VPC Resource Map
+<img width="1919" height="952" alt="VPC Resource Map" src="https://github.com/user-attachments/assets/YOUR-NEW-IMAGE-ID" />
+
 # Learn It Right Way
 This project is a full-stack web application built using React js for the frontend, Express js for the backend, and MySQL as the database. The application is designed to demonstrate the implementation of a 3-tier architecture, where the presentation layer (React js), application logic layer (Express js), and data layer (MySQL) are separated into distinct tiers.
 
