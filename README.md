@@ -2,13 +2,13 @@
 
 <img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/d02880bd-cab6-4843-9dd5-29c32bf202e6" />
 
-### VPC Resource Map
+# VPC Resource Map
 <img width="1917" height="958" alt="Screenshot 2026-11-25 171146" src="https://github.com/user-attachments/assets/e9d05978-c3bd-4dea-a8fc-5b9c858aaa2d" />
 
-### Serverless CI/CD Pipeline - Automation
+# Serverless CI/CD Pipeline - Automation
 <img width="2880" height="1440" alt="CodeDeploy" src="https://github.com/user-attachments/assets/e9d6b94c-5207-4754-b851-29f0c7831968" />
 
-### SUCCESSFUL APPLICATION DEPLOYMENT 
+# SUCCESSFUL APPLICATION DEPLOYMENT 
 <img width="2848" height="1500" alt="Final Dashboard" src="https://github.com/user-attachments/assets/6fbc19c0-717b-4a80-9733-eca2f58941a0" />
 
 # Learn It Right Way
