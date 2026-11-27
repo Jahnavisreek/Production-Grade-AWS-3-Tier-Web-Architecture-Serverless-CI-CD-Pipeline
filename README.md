@@ -1,4 +1,4 @@
-<img width="2848" height="1500" alt="Gemini_Generated_Image_sw1rlmsw1rlmsw1r" src="https://github.com/user-attachments/assets/6c9f46ef-6741-4db3-85c0-f1cf0e8d9fed" /># Production-Grade-AWS-3-Tier-Web-Architecture-Serverless-CI-CD-Pipeline
+# Production-Grade-AWS-3-Tier-Web-Architecture-Serverless-CI-CD-Pipeline
 
 <img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/d02880bd-cab6-4843-9dd5-29c32bf202e6" />
 
